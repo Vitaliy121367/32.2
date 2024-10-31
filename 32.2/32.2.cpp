@@ -6,6 +6,7 @@ using std::endl;
 #include "Toy.h"
 #include "Game.h"
 #include "SportEquipment.h"
+#include "Lottery.h"
 
 int main()
 {
